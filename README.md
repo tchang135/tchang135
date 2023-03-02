@@ -37,7 +37,7 @@
 
 - :hourglass: In my free time, I enjoy watching basketball and working on my personal applications.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/timothy-s-chang/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/timothy-s-chang/)
 
 ---
 
