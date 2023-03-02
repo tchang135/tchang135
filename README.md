@@ -7,10 +7,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/tchang135">
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
 </a>
 <a href="your-wellfound-URL">
-  <img src="https://img.shields.io/badge/Wellfound-blue?style=for-the-badge&logo=wellfound&logoColor=white" alt="Wellfound Badge"/>
+  <img src="https://img.shields.io/badge/Wellfound-orange?style=for-the-badge&logo=wellfound&logoColor=white" alt="Wellfound Badge"/>
 </a>
 </div>
 
