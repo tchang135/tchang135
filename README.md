@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/BGuyN27WcDhufWyTk0/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif" width="100"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/timothy-s-chang/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,6 +11,11 @@
     <img src="https://img.shields.io/badge/Wellfound-orange?style=for-the-badge&logo=wellfound&logoColor=white" alt="Wellfound Badge"/>
   </a>
   </div>
+</div>
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="600" height="300"/>
 </div>
 
 
