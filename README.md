@@ -33,8 +33,6 @@
 
 - :mortar_board: I graduated from App Academy, a competitive software engineer bootcamp for web development.
 
-- :dog: Dogs are superior to cats!
-
 - :hourglass: In my free time, I enjoy watching basketball and working on my personal applications.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/timothy-s-chang/)
