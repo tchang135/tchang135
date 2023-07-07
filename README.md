@@ -4,12 +4,14 @@
   <a href="https://www.linkedin.com/in/timothy-s-chang/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://tchang135.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-86DC3D" alt="Portfolio Badge"/>
-  </a>
   <a href="your-wellfound-URL">
     <img src="https://img.shields.io/badge/Wellfound-orange?style=for-the-badge&logo=wellfound&logoColor=white" alt="Wellfound Badge"/>
   </a>
+  </div>
+  <div>
+    <a href="https://tchang135.github.io/">
+      <img src="https://img.shields.io/badge/Portfolio-86DC3D" alt="Portfolio Badge"/>
+    </a>
   </div>
   
   <h1>
