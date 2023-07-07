@@ -4,9 +4,8 @@
   <a href="https://www.linkedin.com/in/timothy-s-chang/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[https://github.com/tchang135](https://tchang135.github.io/)">
-    <img src="[https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Portfolio-86DC3D
-)" alt="Portfolio Badge"/>
+  <a href="https://tchang135.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-86DC3D" alt="Portfolio Badge"/>
   </a>
   <a href="your-wellfound-URL">
     <img src="https://img.shields.io/badge/Wellfound-orange?style=for-the-badge&logo=wellfound&logoColor=white" alt="Wellfound Badge"/>
