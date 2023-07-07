@@ -39,11 +39,12 @@
 
 - :mailbox: How to reach me:
   <br>
-    :email: tchang135@gmail.com
+    - :email: tchang135@gmail.com
    <br>
-    <a href="https://www.linkedin.com/in/timothy-s-chang/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
+   <br>
+    - <a href="https://www.linkedin.com/in/timothy-s-chang/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
 
 ---
 
