@@ -10,7 +10,7 @@
   </div>
   <div>
     <a href="https://tchang135.github.io/">
-      <img src="https://img.shields.io/badge/Portfolio-06a94D" alt="Portfolio Badge" width="60" height="40"/>
+      <img src="https://img.shields.io/badge/Portfolio-06a94D" alt="Portfolio Badge" width="100" height="30"/>
     </a>
   </div>
   
