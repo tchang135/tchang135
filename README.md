@@ -2,16 +2,14 @@
   <img src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif" width="200"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/timothy-s-chang/" onclick="window.open(this.href, '_blank'); return false;">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Linkedin-blue" alt="LinkedIn Badge" width="80" height="25"/>
   </a>
-  <a href="your-wellfound-URL" onclick="window.open(this.href, '_blank'); return false;">
-    <img src="https://img.shields.io/badge/Wellfound-orange?style=for-the-badge&logo=wellfound&logoColor=white" alt="Wellfound Badge"/>
+  <a href="https://tchang135.github.io/" onclick="window.open(this.href, '_blank'); return false;">
+      <img src="https://img.shields.io/badge/Portfolio-06a94D" alt="Portfolio Badge" width="80" height="25"/>
   </a>
   </div>
   <div>
-    <a href="https://tchang135.github.io/" onclick="window.open(this.href, '_blank'); return false;">
-      <img src="https://img.shields.io/badge/Portfolio-06a94D" alt="Portfolio Badge" width="80" height="25"/>
-    </a>
+    
   </div>
   
   <h1>
